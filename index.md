@@ -16,5 +16,5 @@ Prayer is work, it takes time and perseverance.
 Programming is the same and we'd like to recall
 that Knuth, when he introduced literate programming,
 was imagining a "Pulitzer prize" for literate
-programmer.
+programmers.
 
