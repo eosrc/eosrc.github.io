@@ -8,7 +8,7 @@ tons of lines of assembly language.
 
 After Aquinas is a project that explores how to use 
 technology to support prayer. For centuries monks
-copies manuscripts to earn money but also to meditate
+copied manuscripts to earn money but also to meditate
 on what they were writing down. Lectio Divina was
 intermingled with this activity.
 
