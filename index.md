@@ -1,4 +1,4 @@
-# Some more info about eosrc and After Aquinas
+# Some more info about eosrc and [After Aquinas](https://github.com/eosrc/aa)
 
 eosrc stands for Easy and Open Source. Someone wrote
 that when you know assembly all programs are open
